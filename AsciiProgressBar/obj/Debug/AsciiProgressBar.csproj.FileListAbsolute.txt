@@ -1,0 +1,5 @@
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBar\bin\Debug\AsciiProgressBar.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBar\obj\Debug\AsciiProgressBar.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBar\bin\Debug\AsciiProgressBar.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBar\obj\Debug\AsciiProgressBar.dll

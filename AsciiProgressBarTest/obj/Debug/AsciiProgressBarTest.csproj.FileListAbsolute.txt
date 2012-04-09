@@ -1,0 +1,7 @@
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\bin\Debug\AsciiProgressBarTest.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\bin\Debug\AsciiProgressBarTest.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\obj\Debug\AsciiProgressBarTest.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\AsciiProgressBar\AsciiProgressBarTest\obj\Debug\AsciiProgressBarTest.pdb
